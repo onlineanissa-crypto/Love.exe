@@ -5,6 +5,6 @@ playwright-report/
 .env*
 !.env.example
 photo-contact.png
-photos/
+/photos/
 qa/
 
